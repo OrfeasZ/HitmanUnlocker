@@ -2,7 +2,7 @@
 Hitman Unlocker is a simple module that makes draw distance in Hitman Codename 47 fully configurable.
 
 To install HitmanUnlocker, simply download **DSOUND.dll** from the [latest release](https://github.com/OrfeasZ/HitmanUnlocker/releases/latest) and place it in your root Hitman Codename 47 directory.
-After launching the game, navigate to **Options** -> **Mouse & Keyboard**, and set the **IncreaseDrawDistance** and **DecreaseDrawDistance** to keys of your choice.
+After launching the game, navigate to **Options** -> **Mouse & Keyboard**, and set the **IncreaseDrawDistance** and **DecreaseDrawDistance** actions to keys of your choice.
 
 You can then go in-game and configure the draw distance by using the previously selected keys.
 
